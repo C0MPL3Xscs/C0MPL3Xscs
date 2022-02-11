@@ -1,16 +1,29 @@
-### Hi there 👋
+### Hi GitHub 👋
 
-<!--
-**C0MPL3Xscs/C0MPL3Xscs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![2222](https://user-images.githubusercontent.com/82287232/153542883-f61e2f9f-eae1-4f8c-a8ea-e5022a2e7aef.png)
 
-Here are some ideas to get you started:
+Welcome to my GitHub! I'm a Computer Science student at Portugal working with Graphic Designs.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✔️ I'm currently learning:
+
+Python
+
+C++
+
+Game Development (Unreal Engine)
+
+😍 What i like:
+
+I like Astronomy, Phisics, Maths, Programming, Designing, Industry Managment.
+
+💡 Goals for 2022:
+
+Finish some of my projects
+
+Become skilled in Python, C++
+
+Grow as a person
+
+⚡ Biggest achievement
+
+Made $10.000+ at age 17.
