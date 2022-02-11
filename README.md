@@ -6,24 +6,24 @@ Welcome to my GitHub! I'm a Computer Science student at Portugal working with Gr
 
 ✔️ I'm currently learning:
 
-⊛ Python
+  ⊛ Python
 
-⊛ C++
+  ⊛ C++
 
-⊛ Game Development (Unreal Engine)
-
+  ⊛ Game Development (Unreal Engine)
+ 
 😍 What i like:
 
-⊛ I like Astronomy, Phisics, Maths, Cars, Programming, Designing, Industry Management.
+  ⊛ I like Astronomy, Phisics, Maths, Cars, Programming, Designing, Industry Management.
 
 💡 Goals for 2022:
 
-⊛ Finish some of my projects
+  ⊛ Finish some of my projects
 
-⊛ Become skilled in Python, C++
+  ⊛ Become skilled in Python, C++
 
-⊛ Grow as a person
+  ⊛ Grow as a person
 
 ⚡ Biggest achievement
 
-⊛ Made $10.000+ at age 17.
+  ⊛ Made $10.000+ at age 17.
