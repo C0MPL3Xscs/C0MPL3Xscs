@@ -18,7 +18,7 @@ Welcome to my GitHub! I'm a Computer Science student at Portugal working with Gr
 
 💡 Goals for 2022:
 
-  ⊛ Finish some of my projects
+  ⊛ Finish Kickstream development
 
   ⊛ Become skilled in Python, C++
 
