@@ -4,12 +4,16 @@
 
 Welcome to my GitHub! I'm a Computer Science student at Portugal working with Graphic Designs.
 
-✔️ I'm currently learning:
+✔️ Working with:
 
   ⊛ Python
 
   ⊛ C++
-
+  
+  ⊛ Java
+  
+  ⊛ html/css/Java script
+  
   ⊛ Game Development (Unreal Engine)
  
 😍 What i like:
