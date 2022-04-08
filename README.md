@@ -4,7 +4,7 @@
 
 Welcome to my GitHub! I'm a Computer Science student at Portugal working with Graphic Designs.
 
-✔️ Programing with:
+💻 Programing with:
 
   ⊛ Python
 
@@ -16,7 +16,7 @@ Welcome to my GitHub! I'm a Computer Science student at Portugal working with Gr
   
   ⊛ Game Development (Unreal Engine)
   
-  ✔️ Designing with:
+  🎨 Designing with:
 
   ⊛ Photoshop
   
@@ -28,18 +28,11 @@ Welcome to my GitHub! I'm a Computer Science student at Portugal working with Gr
   
   ⊛ Blender
   
-😍 What i like:
-
-  ⊛ I like Astronomy, Phisics, Maths, Cars, Programming, Designing, Industry Management.
-
-💡 Goals for 2022:
-
-  ⊛ Finish Kickstream development
-
-  ⊛ Become skilled in Python, C++
-
-  ⊛ Grow as a person
-
-⚡ Biggest achievement
-
-  ⊛ Made $10.000+ at age 17.
+  🎨 Founder of:
+  
+  ⊛ Game4Easy[Closed]
+  
+  ⊛ C0MP.Designs
+  
+  ⊛ Kickstream
+  
