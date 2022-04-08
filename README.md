@@ -4,7 +4,7 @@
 
 Welcome to my GitHub! I'm a Computer Science student at Portugal working with Graphic Designs.
 
-✔️ Working with:
+✔️ Programing with:
 
   ⊛ Python
 
@@ -16,7 +16,7 @@ Welcome to my GitHub! I'm a Computer Science student at Portugal working with Gr
   
   ⊛ Game Development (Unreal Engine)
   
-  ✔️ Working with:
+  ✔️ Designing with:
 
   ⊛ Photoshop
   
