@@ -28,7 +28,7 @@ Welcome to my GitHub! I'm a Computer Science student at Portugal working with Gr
   
   ⊛ Blender
   
-  🎨 Founder of:
+  🤵 Founder of:
   
   ⊛ Game4Easy[Closed]
   
