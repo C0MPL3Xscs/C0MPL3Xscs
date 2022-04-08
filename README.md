@@ -15,7 +15,19 @@ Welcome to my GitHub! I'm a Computer Science student at Portugal working with Gr
   ⊛ html/css/Java script
   
   ⊛ Game Development (Unreal Engine)
- 
+  
+  ✔️ Working with:
+
+  ⊛ Photoshop
+  
+  ⊛ AfterEffects
+  
+  ⊛ CamtasiaStudio 9
+  
+  ⊛ SonyVegas
+  
+  ⊛ Blender
+  
 😍 What i like:
 
   ⊛ I like Astronomy, Phisics, Maths, Cars, Programming, Designing, Industry Management.
