@@ -38,6 +38,8 @@ Welcome to my GitHub! I'm a Computer Science student at Portugal working with Gr
   
   ⊛ LOUDGames 🟡
   
+  ⊛ ROCKETPRICE 🟡
+  
   🔴- Over
   🟢- Running
   🟠- StandBy/not pretended to get back running
