@@ -32,7 +32,9 @@ Welcome to my GitHub! I'm a Computer Science student at Portugal working with Gr
   
   ⊛ Game4Easy[Closed]
   
-  ⊛ C0MP.Designs
+  ⊛ C0MP.Designs[Running]
   
-  ⊛ Kickstream
+  ⊛ Kickstream[Stand BY]
+  
+  ⊛ LOUDGames[Working on]
   
