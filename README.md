@@ -42,7 +42,5 @@ Welcome to my GitHub! I'm a Computer Science student at Portugal working with Gr
   
   🔴- Over
   🟢- Running
-  🟠- StandBy/not pretended to get back running
   🟡- Working on
-  🔵- Not Started yet
   
