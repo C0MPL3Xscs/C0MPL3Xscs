@@ -30,13 +30,13 @@ Welcome to my GitHub! I'm a Computer Science student at Portugal working with Gr
   
   🤵 Founder of:
   
-  ⊛ Game4Easy [🔴]
+  ⊛ Game4Easy 🔴
   
-  ⊛ C0MP.Designs [🟢]
+  ⊛ C0MP.Designs 🟢
   
-  ⊛ Kickstream [🟡]
+  ⊛ Kickstream 🟡
   
-  ⊛ LOUDGames [🟡]
+  ⊛ LOUDGames 🟡
   
   🔴- Over
   🟢- Running
