@@ -30,11 +30,17 @@ Welcome to my GitHub! I'm a Computer Science student at Portugal working with Gr
   
   🤵 Founder of:
   
-  ⊛ Game4Easy[Closed]
+  ⊛ Game4Easy [🔴]
   
-  ⊛ C0MP.Designs[Running]
+  ⊛ C0MP.Designs [🟢]
   
-  ⊛ Kickstream[Stand BY]
+  ⊛ Kickstream [🟡]
   
-  ⊛ LOUDGames[Working on]
+  ⊛ LOUDGames [🟡]
+  
+  🔴- Over
+  🟢- Running
+  🟠- StandBy/not pretended to get back running
+  🟡- Working on
+  🔵- Not Started yet
   
