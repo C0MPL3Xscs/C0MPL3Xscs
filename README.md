@@ -18,9 +18,9 @@ Welcome to my GitHub! I'm a Computer Science student at Portugal working with Gr
   
   🎨 Designing with:
 
-  ⊛ Photoshop
+  ⊛ Adobe Photoshop
   
-  ⊛ AfterEffects
+  ⊛ Adobe AfterEffects
   
   ⊛ CamtasiaStudio 9
   
