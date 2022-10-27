@@ -32,7 +32,7 @@ Welcome to my GitHub! I'm a Computer Science student at Portugal working with Gr
   
   ⊛ Game4Easy 🔴
   
-  ⊛ C0MP.Designs 🟢
+  ⊛ C0MP.Designs [C0MP.Designs](https://pages.github.com/) 🟢
   
   ⊛ Kickstream 🟡
   
