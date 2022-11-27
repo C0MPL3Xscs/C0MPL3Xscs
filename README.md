@@ -36,6 +36,8 @@ Welcome to my GitHub! I'm a Computer Science student at Portugal working with Gr
   
   ⊛ C0MP.Designs 🟢 [Check it](https://compdesigns.art/)
   
+  ⊛ C0MP.Code 🟡
+  
   ⊛ Kickstream 🟡
   
   ⊛ LOUDGames 🟡
