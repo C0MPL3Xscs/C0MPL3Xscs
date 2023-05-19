@@ -1,6 +1,6 @@
 ### Hi There 👋
 
-![2222](https://user-images.githubusercontent.com/82287232/153542883-f61e2f9f-eae1-4f8c-a8ea-e5022a2e7aef.png)
+![1](https://github.com/C0MPL3Xscs/C0MPL3Xscs/assets/82287232/671f84be-60aa-4c4e-8fcb-c2dbd6a3029e)
 
 Welcome to my GitHub! I'm a Computer Science student at Portugal working with Graphic Designs as an hobby.
 
