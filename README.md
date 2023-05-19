@@ -46,6 +46,6 @@ Welcome to my GitHub! I'm a Computer Science student at Portugal working with Gr
 
 🔴- Over 🟢- Running 🟡- Maybe in the future
 
-[![Generate Snake Game from GitHub Contribution Grid](https://github.com/C0MPL3Xscs/SnakeGame/actions/workflows/snake.yml/badge.svg)](https://github.com/C0MPL3Xscs/SnakeGame/actions/workflows/snake.yml)
-  
+[![Generate Snake Game from GitHub Contribution Grid](https://github.com/C0MPL3Xscs/SnakeGame/actions/workflows/blank.yml/badge.svg?branch=main)](https://github.com/C0MPL3Xscs/SnakeGame/actions/workflows/blank.yml)
+
 Feel free to explore my projects and repositories. Thanks for visiting! 😊
