@@ -30,21 +30,6 @@ Welcome to my GitHub! I'm a Computer Science student at Portugal working with Gr
   
   ⊛ Blender
   
-  🤵 Founder of:
-
-⊛ Game4Easy 🔴
-
-⊛ C0MP.Designs 🟢 Check it
-
-⊛ C0MP.Code 🟢 Check it
-
-⊛ Kickstream 🟡
-
-⊛ LOUDGames 🟡
-
-⊛ ROCKETPRICE 🟡
-
-🔴- Over 🟢- Running 🟡- Maybe in the future
 
 ![github-user-contribution](https://github.com/C0MPL3Xscs/C0MPL3Xscs/assets/82287232/107aed85-1d47-49cb-a7fe-75e782ce3860)
 
