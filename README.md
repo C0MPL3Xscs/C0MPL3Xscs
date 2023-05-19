@@ -46,5 +46,5 @@ Welcome to my GitHub! I'm a Computer Science student at Portugal working with Gr
   
   🔴- Over
   🟢- Running
-  🟡- Working on
+  🟡- Maybe in the future
   
