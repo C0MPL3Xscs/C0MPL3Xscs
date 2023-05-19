@@ -34,7 +34,7 @@ Welcome to my GitHub! I'm a Computer Science student at Portugal working with Gr
   
   ⊛ Game4Easy 🔴
   
-  ⊛ C0MP.Designs 🟢 [Check it](https://compdesigns.art/)
+  ⊛ C0MP.Designs 🟢 [Check it](https://discord.io/c0mpdesign)
   
   ⊛ C0MP.Code 🟢 [Check it](https://discord.io/C0MPCode)
   
