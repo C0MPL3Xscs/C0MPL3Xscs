@@ -46,6 +46,6 @@ Welcome to my GitHub! I'm a Computer Science student at Portugal working with Gr
 
 🔴- Over 🟢- Running 🟡- Maybe in the future
 
-[![Generate Snake Game](https://github.com/C0MPL3Xscs/SnakeGame/actions/workflows/snake.yml/badge.svg)](https://github.com/C0MPL3Xscs/SnakeGame/actions/workflows/snake.yml)
+![github-user-contribution](https://github.com/C0MPL3Xscs/C0MPL3Xscs/assets/82287232/107aed85-1d47-49cb-a7fe-75e782ce3860)
 
 Feel free to explore my projects and repositories. Thanks for visiting! 😊
