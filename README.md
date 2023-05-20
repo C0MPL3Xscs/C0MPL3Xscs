@@ -4,7 +4,7 @@
 
 Welcome to my GitHub! I'm a Computer Science student at Portugal working with Graphic Designs as an hobby.
 
-💻 Programming languages I work with:
+💻 Working with:
 
   ⊛ Python
 
