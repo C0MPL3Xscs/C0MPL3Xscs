@@ -14,6 +14,10 @@ Welcome to my GitHub! I'm a Computer Science student at Portugal working with Gr
   
   ⊛ html/css/Java script
   
+  ⊛ React
+  
+  ⊛ ASP.NET
+  
   ⊛ Game Development (Unreal Engine)
   
   ⊛ SQL
