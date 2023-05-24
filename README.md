@@ -28,6 +28,8 @@ Welcome to my GitHub! I'm a Computer Science student at Portugal working with Gr
   
   ⊛ Adobe AfterEffects
   
+  ⊛ Adobe Ilustrator
+  
   ⊛ CamtasiaStudio 9
   
   ⊛ SonyVegas
