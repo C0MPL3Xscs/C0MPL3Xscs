@@ -15,8 +15,12 @@ Welcome to my GitHub! I'm a Computer Science student at Portugal working with Gr
   ⊛ html/css/Java script
   
   ⊛ React
+
+  ⊛ Node.js
+
+  ⊛ React Native
   
-  ⊛ ASP.NET
+  ⊛ .NET
   
   ⊛ Game Development (Unreal Engine)
   
