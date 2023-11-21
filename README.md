@@ -41,7 +41,7 @@ Welcome to my GitHub! I'm a Computer Science student at Portugal working with Gr
   ⊛ Blender
   
 
-![github-user-contribution](https://github.com/C0MPL3Xscs/C0MPL3Xscs/assets/82287232/107aed85-1d47-49cb-a7fe-75e782ce3860)
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
 
 Feel free to explore my projects and repositories. Thanks for visiting! 😊
 
