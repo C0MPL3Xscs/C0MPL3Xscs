@@ -22,7 +22,7 @@ Welcome to my GitHub! I'm a Computer Science student at Portugal working with Gr
   
   ⊛ .NET
   
-  ⊛ Game Development (Unreal Engine)
+  ⊛ Game Development (Unreal Engine | Godot)
   
   ⊛ SQL
   
