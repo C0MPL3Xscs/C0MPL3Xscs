@@ -44,5 +44,4 @@ Welcome to my GitHub! I'm a Computer Science student at Portugal working with Gr
 Feel free to explore my projects and repositories. Thanks for visiting! 😊
 
 Most of the projects you will find here, are automating scripts or usefull tools I made to help me, and to help other people that may find them usefull.
-If you find any of my repositories usefull you can support me by [Buying me a coffe ☕ ](https://www.buymeacoffee.com/samukasamp)
 
