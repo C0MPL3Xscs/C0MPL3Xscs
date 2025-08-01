@@ -8,11 +8,11 @@ Welcome to my GitHub! I'm a Computer Science student at Portugal working with Gr
 
   ⊛ Python
 
-  ⊛ C++
+  ⊛ TypeScript
   
   ⊛ Java
   
-  ⊛ html/css/Java script
+  ⊛ html/css/Js
   
   ⊛ React
 
@@ -22,7 +22,7 @@ Welcome to my GitHub! I'm a Computer Science student at Portugal working with Gr
   
   ⊛ .NET
   
-  ⊛ Game Development (Unreal Engine | Godot)
+  ⊛ next.js
   
   ⊛ SQL
   
